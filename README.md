@@ -1,5 +1,4 @@
-# Machine-Learning
-EN.601.475 //
+# EN.601.475 Machine Learning
 Machine learning is a subfield of computer science and artificial intelligence, whose goal is to
 develop computational systems, methods, and algorithms that can learn rules from data to
 improve their performance on a certain task with experience. This course introduces the
